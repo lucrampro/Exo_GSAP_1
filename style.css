@@ -1,1 +1,54 @@
-.logo{ width: 200px;}
+html{
+    
+    height: 100%;
+}
+
+body{
+    
+    height: 100%;
+}
+
+.a{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background: black;
+    top: 0;
+   
+}
+
+.b{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background: black;
+    top: 20%;
+   
+}
+
+.c{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background: black;
+    top: 40%;
+   
+}
+
+.d{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background: black;
+    top: 60%;
+   
+}
+
+.e{
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    background: black;
+    top: 80%;
+   
+}
